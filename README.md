@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Development and exploring AI technologies.<br>🎯 Goals: Expand my career into management roles and improve my skills in administrative functions.<br>🎲 Fun fact:  I enjoy the peacefulness of country living and spending time outdoors!</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Development and exploring AI technologies.<br>🎯 Goals: Expand my career into Software Engineering.<br>🎲 Fun fact:  I enjoy the peacefulness of country living and spending time outdoors!</p>
 
 ###
 
